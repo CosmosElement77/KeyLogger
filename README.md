@@ -24,7 +24,8 @@ python3 keylogger.py
 ```
 ## Output
 
-![Image](https://github.com/CosmosElement77/KeyLogger/blob/c1fda6cdf8c5d855ddfcdc42904ecce65a80cbb6/first.png)
+<img src="https://github.com/CosmosElement77/KeyLogger/blob/c1fda6cdf8c5d855ddfcdc42904ecce65a80cbb6/first.png" width="200" height="200">
+<img src="https://github.com/CosmosElement77/KeyLogger/blob/c1fda6cdf8c5d855ddfcdc42904ecce65a80cbb6/second.png" width="200" height="200">
 
 
 
